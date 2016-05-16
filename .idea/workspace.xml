@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="161c3608-1f86-4191-97ea-8d62372ad086" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/Examples.jsx" afterPath="$PROJECT_DIR$/app/components/Examples.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bundle.js" afterPath="$PROJECT_DIR$/public/bundle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bundle.js.map" afterPath="$PROJECT_DIR$/public/bundle.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/About.jsx" afterPath="$PROJECT_DIR$/app/components/About.jsx" />
     </list>
     <ignored path="ReactWeather.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="About.jsx" pinned="false" current-in-tab="false">
+      <file leaf-file-name="About.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/components/About.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Examples.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Examples.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/components/Examples.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -138,7 +136,6 @@
         <option value="$PROJECT_DIR$/app/api/openWeatherMap.jsx" />
         <option value="$PROJECT_DIR$/app/components/Weather.jsx" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
-        <option value="$PROJECT_DIR$/app/components/About.jsx" />
         <option value="$PROJECT_DIR$/app/components/main.jsx" />
         <option value="$PROJECT_DIR$/app/components/Nav.jsx" />
         <option value="$PROJECT_DIR$/app/components/WeatherMessage.jsx" />
@@ -147,6 +144,7 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/app/components/Examples.jsx" />
+        <option value="$PROJECT_DIR$/app/components/About.jsx" />
       </list>
     </option>
   </component>
@@ -342,12 +340,12 @@
       <workItem from="1463061421613" duration="4773000" />
       <workItem from="1463316463801" duration="3543000" />
       <workItem from="1463416780955" duration="1122000" />
-      <workItem from="1463422822176" duration="5268000" />
+      <workItem from="1463422822176" duration="5489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14784000" />
+    <option name="totallyTimeSpent" value="15005000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -519,14 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/About.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/components/main.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -594,7 +584,15 @@
     <entry file="file://$PROJECT_DIR$/app/components/Examples.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/About.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
         </state>
       </provider>
