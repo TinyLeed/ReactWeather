@@ -1,2 +1,2 @@
-# ReactBoilerplate
-Boilerplate for react.js projects.
+# ReactWeather
+React weather application.
